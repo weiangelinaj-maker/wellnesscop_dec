@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <div class="hero">
-  <h1>Wellbeing CoP Toolkit</h1>
+  <h1>Wellbeing Community of Practice Toolkit</h1>
   <p class="subtitle">A guide to building trust and holistic wellbeing in organizations.</p>
   <div class="quote">💬 “Compassion satisfaction is the cure for burnout.”</div>
 </div>
@@ -20,159 +20,146 @@ nav_order: 1
 
 ---
 
-## What does a Community of Practice (CoP) set out to do differently — and why?
+## What is this Community of Practice trying to do?
 
-Much of contemporary social impact work relies on a **“fixing” paradigm**:
-communities or individuals are implicitly framed as broken and in need of external intervention.
+Much of social impact work is built around a fixing mindset. People and communities are often treated as broken or lacking, and change is framed as something delivered from the outside.
 
-The Wellbeing Community of Practice intentionally rejects this framing.
+##The Wellbeing Community of Practice takes a different approach.
 
-Instead, we ground our work in **community actualization** — a model informed by the pedagogy of the **Blackfoot (Siksika) Nation**, which assumes that people are **born whole** and enter the work as contributors, not recipients.
+We begin from the belief that people are whole.  
+This perspective is informed by the pedagogy of the Blackfoot (Siksika) Nation, which understands individuals as arriving with inherent knowledge, dignity, and capacity.
 
-The CoP supports people in **showing up differently**, shifting nonprofit culture from:
-> chronic overwhelm → collective care
+Our goal is to create conditions where people can show up fully and contribute meaningfully.
 
----
-
-## The biological infrastructure for change
-
-Sustainable systems change requires more than good intentions — it requires the **right physiological conditions**.
-
-By explicitly centering the concepts below, we create the biological and relational infrastructure needed for trust, collaboration, and innovation.
-
-### 1. Psychological safety & authenticity  
-🌱 *Low lift, high return*
-
-- Move from a culture of “fixing” to a **playground of acceptance**
-- Create conditions where people can take interpersonal risks **without fear of humiliation**
-- Establish a clear norm:
-  - **Authenticity is required**
-  - **Perfection is not**
-- Include a *“no masking” mandate* — people do not need to suppress identity, emotion, or experience to belong
+This shift changes nonprofit culture from chronic overwhelm toward shared care and collective responsibility.
 
 ---
 
-### 2. Addressing moral injury (not just burnout)  
-🔧 *High lift, necessary repair*
+## Why biology matters for systems change
 
-- Burnout is often treated as an individual resource problem  
-- **Moral injury** occurs when people must suppress who they are to survive harmful systems
-- Masking is **metabolically expensive**:
-  - drains cognitive resources
-  - reduces empathy
-  - blocks innovation
+Lasting change does not happen through ideas alone. It also depends on whether people feel safe enough, connected enough, and regulated enough to work together.
 
-**Why this distinction matters:**
+When people are under constant stress, collaboration and creativity shut down.  
+When people feel supported, trust and problem-solving become possible.
 
-| Experience | What’s needed |
-|----------|---------------|
-| Burnout | Rest |
-| Moral Injury | Play, repair, and belonging |
+The Community of Practice focuses on three foundational conditions.
 
 ---
 
-### 3. The ventral vagal (safe & social) state  
-🌱 *Foundational for systems change*
+## 1. Psychological safety and authenticity  
+🌱 Low lift, high impact
 
-When people are supported to be:
-- open
-- curious
-- flexible  
+Psychological safety allows people to speak honestly, ask questions, and take interpersonal risks without fear of embarrassment or punishment.
 
-…we activate the **ventral vagal state** of the nervous system.
+In practice:
+- people are not expected to hide parts of themselves to belong
+- authenticity is encouraged
+- perfection is not required
 
-This is the *only* physiological state in which humans can:
-- engage in complex thinking
-- hold nuance
-- collaborate across difference
-- design durable systems change
+When people do not have to mask who they are, they conserve energy, stay engaged, and participate more fully.
 
 ---
 
-## Radical acceptance: the shift from “fixing” to belonging
+## 2. Burnout is often treated as an individual problem that can be solved with rest or self-care.
 
-Traditional systems change often operates on **conditional acceptance**:
-> “You are welcome once you change x, y, or z.”
+Moral injury is different.  
+It occurs when people are asked to violate their values or suppress their identity in order to function within a system.
 
-This message — even when implicit — triggers **neurobiological defense responses**:
-- fight
-- flight
-- shutdown
+Masking and self-silencing are costly. They drain attention, reduce empathy, and make meaningful change harder.
 
-A **Playground of Acceptance and Belonging** is not abstract or aspirational.  
-It is a **scientifically grounded design strategy** for regulating the collective nervous system.
+The distinction matters:
 
-### What changes when acceptance is unconditional?
-
-- People move out of *fight-or-flight*
-- The prefrontal cortex comes back online
-- Empathy, creativity, and collaboration become possible
+- Burnout often requires rest.
+- Moral injury requires belonging, repair, and the ability to play and experiment safely.
 
 ---
 
-## Nervous system states & why they matter
+## 3. Supporting the safe and social nervous system  
 
-### Fight or Flight (Sympathetic Nervous System)
-- Amygdala hijack
-- Rigid, binary thinking
-- Reduced capacity for collaboration
+When people feel safe, their nervous systems shift into a state that supports connection and flexibility.
 
-### Rest & Digest (Ventral Vagal State)
-- “Safe and social”
-- Resources available for creativity and planning
-- Required for complex systems work
+In this state, people are more able to:
+- think clearly
+- tolerate uncertainty
+- collaborate across differences
+- design complex solutions
+
+This is the biological state that makes systems change possible.
+
+---
+
+## From conditional acceptance to real belonging
+
+Many systems operate on conditional acceptance.  
+People are welcomed only after they change how they act, speak, or present themselves.
+
+Even when unspoken, this expectation creates stress and defensiveness.
+
+Unconditional acceptance is a strategy that helps groups stay regulated and engaged.
+
+When people feel accepted:
+- threat responses decrease
+- curiosity increases
+- collaboration becomes easier
+
+---
+
+## Nervous system states and their effects
+
+**High threat states**
+- narrow attention
+- rigid thinking
+- difficulty collaborating
+
+**Safe and social states**
+- openness and flexibility
+- access to creativity
+- capacity for long-term planning
+
+Communities that want to do complex work must intentionally support the second state.
 
 ---
 
 ## Reframing the hierarchy of needs
 
-Drawing from the **Blackfoot (Siksika) Nation’s model**:
+Western models often place self-actualization at the top of a pyramid, as something earned after basic needs are met. Blackfoot pedagogy reverses this logic and self-actualization is the foundation.
 
-- Western frameworks place *self-actualization at the peak*
-- Blackfoot pedagogy places **self-actualization at the foundation**
-
-This foundation enables:
-1. Individual self-actualization  
-2. Community actualization  
-3. Cultural perpetuity  
-
-> Self-actualization is not the reward — it is the starting point.
+When people are supported to feel whole and capable:
+1. individuals thrive
+2. communities strengthen
+3. cultures sustain themselves over time
 
 ---
 
-## How the CoP puts this into practice
+## How the Community of Practice works in practice
 
-The Community of Practice uses **intentional, relational strategies** to support safety and connection.
+The Community of Practice uses relational strategies to support safety and connection.
 
-### Core practices include:
+Key practices include:
 
-1. **Facilitation with intentionality**  
-   Facilitators act as *biological anchors*, broadcasting calm and safety through their regulated presence.
+1. **Intentional facilitation**  
+   Facilitators model calm, curiosity, and steadiness. Their presence helps others regulate.
 
-2. **Modeling & mirroring**  
-   Through mirror neurons, a regulated leader helps others shift out of fight-or-flight and into social engagement.
+2. **Modeling and mirroring**  
+   Regulated leadership supports regulated participation. People take cues from one another.
 
-3. **Skill sharing over expertise**  
-   - Moves away from expert/client binaries  
-   - Redistributes power  
-   - Uplifts collective wisdom  
+3. **Skill sharing rather than expertise hierarchies**  
+   Knowledge is shared across roles and experience levels. Power is distributed rather than concentrated.
 
-   Key skills include:
-   - co-regulation
-   - compassionate curiosity
-   - repair after rupture
+Skills emphasized include:
+- co-regulation
+- compassionate curiosity
+- repair after conflict
 
 ---
 
-## The “good virus” effect
+## How change spreads
 
-Radical acceptance functions as a **“good virus”** through **upstream reciprocity**.
+Acceptance and support tend to multiply.
 
-When people feel genuinely supported:
-- they are more likely to support others
-- cooperative behavior spreads up to **three degrees of separation** in a social network
+When people feel genuinely supported, they are more likely to extend that support to others.  
+This effect spreads through relationships and networks.
 
-Ultimately:
-> People can only show up differently **after** they themselves are met with acceptance.
+People are able to show up differently only after they themselves have been met with care.
 
-The playground is the incubator.
+The Community of Practice creates the conditions where this becomes possible.
