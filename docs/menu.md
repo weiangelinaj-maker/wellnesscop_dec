@@ -1,9 +1,9 @@
 ---
-title: Core Principles
+title: A Menu of Options
 nav_order: 3
 ---
 
-# Core Principles
+# A Menu of Options
 
 <div class="callout low"><strong>🌱 Low Lift:</strong> A small practice you can start today.</div>
 <div class="callout high"><strong>🔧 High Lift:</strong> Requires more time/resources but higher impact.</div>
