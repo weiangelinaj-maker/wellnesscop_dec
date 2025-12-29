@@ -4718,3 +4718,28 @@ img.u-pull-left {
         width  : var(--vspace-1_5);
     }
 }
+
+/* -------------------------------------------------------------------
+ * # CUSTOM FOOTER SOURCES
+ * ------------------------------------------------------------------- */
+.sources-footnote {
+    margin-top     : 2rem;
+    padding-top    : 1rem;
+    border-top     : 1px solid #e0e0e0;
+    font-size      : 0.95rem;
+    color          : #555;
+}
+
+.sources-footnote ol {
+    margin      : 0.6rem 0 0 1.2rem;
+    padding     : 0;
+    line-height : 1.6;
+}
+
+.sources-footnote a {
+    color : inherit;
+}
+
+.sources-footnote a:hover {
+    color : var(--color-1, #3F885C);
+}

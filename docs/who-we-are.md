@@ -7,3 +7,8 @@ nav_order: 2
 
 <div class="quote">💬 Insert a testimonial or mission statement here.</div>
 
+sources:
+  - title: CDC – Well-Being Concepts
+    url: https://www.cdc.gov/hrqol/wellbeing.htm
+  - url: https://www.who.int/health-topics/mental-health
+---
