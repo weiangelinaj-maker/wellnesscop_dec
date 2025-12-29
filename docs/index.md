@@ -11,27 +11,30 @@ nav_order: 1
 </div>
 
 ## Start here
-- [Who We Are](./who-we-are/)
 - [Core Principles](./core-principles/)
 - [Implementation Guide](./implementation/)
 - [Policy Recommendations](./policy/)
 - [Launching Your Own CoP](./launching/)
 - [Resources & BaseCamp](./resources/)
-
+(assets/CoP Toolkit Width 471.jpeg)
 ---
 
-## What is this Community of Practice trying to do?
+**What the Wellbeing Community of Practice Is Trying to Do**
 
-Much of social impact work is built around a fixing mindset. People and communities are often treated as broken or lacking, and change is framed as something delivered from the outside.
+Traditional social impact work often operates on a "fixing" paradigm, viewing communities as broken entities in need of external intervention. We reject this. Guided by the pedagogy of the Blackfoot (Siksika) Nation, we begin with the belief that people are born whole and enter this work as actualized contributors. Our goal is to shift the nonprofit sector from a culture of overwhelming stress to one of collective care.
 
-## The Wellbeing Community of Practice takes a different approach.
+The Biology of Systems Change 
+Lasting change requires more than good ideas; it requires a nervous system capable of collaboration. When individuals are in "survival mode" (Fight or Flight), the brain’s ability to plan, innovate, and empathize shuts down. Complex problem-solving is only biologically possible when we feel safe, connected, and regulated (the Ventral Vagal state).
 
-We begin from the belief that people are whole.  
-This perspective is informed by the pedagogy of the Blackfoot (Siksika) Nation, which understands individuals as arriving with inherent knowledge, dignity, and capacity.
+Three Areas of Focus:
 
-Our goal is to create conditions where people can show up fully and contribute meaningfully.
+*Psychological Safety:* We create a "playground of acceptance" where authenticity is required. When people stop expending energy on masking who they are, they regain the cognitive resources needed for innovation.
 
-This shift changes nonprofit culture from chronic overwhelm toward shared care and collective responsibility.
+*Distinguishing Burnout from Moral Injury:*
+- Burnout is exhaustion that requires rest.
+- Moral Injury is a violation of values that requires repair, play, and belonging. We address the latter by reducing the need to suppress one's identity to survive harmful systems.
+
+*Inverting the Hierarchy:* Self-Actualization is the foundation that supports Community Actualization and Cultural Perpetuity.
 
 ---
 
