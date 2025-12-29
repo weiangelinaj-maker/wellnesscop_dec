@@ -1,1 +1,5 @@
-resources
+---
+layout: default
+title: Resources
+---
+
