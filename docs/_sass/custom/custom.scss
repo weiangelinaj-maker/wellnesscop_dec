@@ -1,0 +1,64 @@
+// Hero / cover section
+.hero {
+  padding: 3rem 1.5rem;
+  border-radius: 18px;
+  color: white;
+  background: linear-gradient(135deg, #1E5D5A 0%, #BFD8C2 100%);
+  margin: 1.5rem 0 2rem 0;
+}
+
+.hero h1, .hero h2, .hero h3 {
+  color: white;
+}
+
+.hero .subtitle {
+  font-family: "Open Sans", sans-serif;
+  opacity: 0.95;
+  max-width: 55ch;
+}
+
+// Quote styling
+.quote {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  border-left: 6px solid #BFD8C2;
+  padding: 0.75rem 1rem;
+  background: rgba(255,255,255,0.6);
+  border-radius: 12px;
+  margin: 1rem 0;
+}
+
+// Callouts (🌱/🔧/📄/💬)
+.callout {
+  border-left: 6px solid #1E5D5A;
+  padding: 0.9rem 1rem;
+  background: rgba(255,255,255,0.75);
+  border-radius: 14px;
+  margin: 1rem 0;
+}
+
+.callout.low { border-left-color: #BFD8C2; }
+.callout.high { border-left-color: #E97B63; }
+.callout.dl { border-left-color: #1E5D5A; }
+.callout.quote { border-left-color: #BFD8C2; }
+
+// “Cards” for Resources section
+.cards {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  margin: 1rem 0 1.5rem 0;
+}
+
+.card {
+  background: rgba(255,255,255,0.8);
+  border: 1px solid rgba(74,74,74,0.14);
+  border-radius: 16px;
+  padding: 14px 16px;
+}
+
+.card .meta {
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+

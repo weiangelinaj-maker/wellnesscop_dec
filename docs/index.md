@@ -1,16 +1,20 @@
 ---
 layout: home
-title: Home
+title: Wellbeing CoP Toolkit
 nav_order: 1
 ---
 
-# Wellness Community of Practice Toolkit
-
-A calm, practical toolkit for teams doing high-empathy work.
+<div class="hero">
+  <h1>Wellbeing CoP Toolkit</h1>
+  <p class="subtitle">A guide to building trust and holistic wellbeing in organizations.</p>
+  <div class="quote">💬 “Compassion satisfaction is the cure for burnout.”</div>
+</div>
 
 ## Start here
-- [Core Principles](./principles/)
-- [Tools for Staff & Teams](./tools/)
-- [Organizational Support](./organization/)
-- [Build Your Own CoP](./build-a-cop/)
+- [Who We Are](./who-we-are/)
+- [Core Principles](./core-principles/)
+- [Implementation Guide](./implementation/)
+- [Policy Recommendations](./policy/)
+- [Launching Your Own CoP](./launching/)
+- [Resources & BaseCamp](./resources/)
 🌱
