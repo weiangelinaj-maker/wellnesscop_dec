@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Implementation
+nav_order: 8
 ---
 
 ### **The Wellbeing CoP Implementation Guide**
