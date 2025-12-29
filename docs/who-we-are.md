@@ -1,5 +1,5 @@
 ---
-title: What Does the CoP set out to do differently, and why? 
+title: Who We Are
 nav_order: 2
 ---
 
