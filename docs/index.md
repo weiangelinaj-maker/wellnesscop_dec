@@ -24,7 +24,7 @@ nav_order: 1
 
 Much of social impact work is built around a fixing mindset. People and communities are often treated as broken or lacking, and change is framed as something delivered from the outside.
 
-##The Wellbeing Community of Practice takes a different approach.
+## The Wellbeing Community of Practice takes a different approach.
 
 We begin from the belief that people are whole.  
 This perspective is informed by the pedagogy of the Blackfoot (Siksika) Nation, which understands individuals as arriving with inherent knowledge, dignity, and capacity.
